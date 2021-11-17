@@ -1,0 +1,16 @@
+.UserOutput {
+  padding: 20px;
+  border: 2px solid #c6bcbc;
+  margin: 20px auto;
+  width: 75%;
+  box-shadow: 5px 5px 15px #d0e1e1ee;
+  background: aliceblue;
+  position: relative;
+}
+
+.UserOutput .deleteBtn {
+  position: absolute;
+  top: 0px;
+  right: 10px;
+  cursor: pointer;
+}
